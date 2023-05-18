@@ -1,0 +1,4 @@
+﻿  question 6.cpp
+f:\fic\cmpt135\programs\week 12\question 6\question 6\question 6.cpp(13): warning C4715: 'CheckDistinct' : not all control paths return a value
+  LINK : F:\FIC\Cmpt135\Programs\Week 12\question 6\Debug\question 6.exe not found or not built by the last incremental link; performing full link
+  question 6.vcxproj -> F:\FIC\Cmpt135\Programs\Week 12\question 6\Debug\question 6.exe

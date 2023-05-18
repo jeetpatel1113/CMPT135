@@ -1,0 +1,96 @@
+#include <iostream>
+#include <cmath>
+#include <ctime>
+using namespace std;
+
+struct Point
+{
+	double x,y;
+};
+struct Line
+{
+	Point start, end;
+};
+
+Line getLine()
+{
+	Line line;
+	line.start.x = ((1.0*rand())/RAND_MAX) * (3.2 - -2.5) + -2.5;
+	line.start.y = ((1.0*rand())/RAND_MAX) * (3.2 - -2.5) + -2.5;
+	line.end.x = ((1.0*rand())/RAND_MAX) * (3.2 - -2.5) + -2.5;
+	line.end.y = ((1.0*rand())/RAND_MAX) * (3.2 - -2.5) + -2.5;
+	return line;
+}
+void printLine(const Line& line)
+{
+	cout << "(" << line.start.x << ", " << line.start.y << ")---" <<
+		    "(" << line.end.x << ", " << line.end.y << ")";
+	return;
+}
+double getSlope(const Line* line)
+{
+	double y_diff = line->end.y - line->start.y;
+	double x_diff = line->end.x - line->start.x;
+	if (x_diff == 0)
+		return 1.0E300;
+	else
+		return y_diff/x_diff;
+}
+int main()
+{
+	srand(time(0));
+	//Step 1. Read array size
+	int size;
+	cout << "Enter array size: ";
+	cin >> size;
+
+	//Step 2. Create a dynamic array of line objects of the user defined size
+	Line *L = new Line[size];
+
+	//Step 3. Read the line objects (call readLine function)
+	for (int i = 0; i < size; i++)
+	{
+		cout << "Reading the line object at index " << i << endl;
+		L[i] = getLine();
+	}
+	cout << endl;
+
+	//Step 4. Print the line objects (call printLine function)
+	for (int i = 0; i < size; i++)
+	{
+		cout << "The line object at index " << i << " is ";
+		printLine(L[i]);
+		cout << endl;
+	}
+	cout << endl;
+
+	//Step 5. Print the slope of each line object
+	for (int i = 0; i < size; i++)
+	{
+		double slope = getSlope(&(L[i]));
+		cout << "The slope of the line at index " << i << " is " << slope << endl;
+	}
+	cout << endl;
+
+	//Step 6. Print the parallel lines (use getSlope function)
+	for (int i = 0; i < size; i++)
+	{
+		for (int j = i+1; j < size; j++)
+		{
+			double s1 = getSlope(&(L[i]));
+			double s2 = getSlope(&(L[j]));
+			if (abs(s1 - s2) < 0.000001) //Check absolute value of difference instead of EQUALITY with ==
+				cout << "Line at index " << i << " is parallel to Line at index " << j << endl;
+			else
+				cout << "Line at index " << i << " is NOT parallel to Line at index " << j << endl;
+		}
+	}
+	cout << endl;
+
+	//Step 7. Delete the dynamic array
+	delete[] L;
+
+	//You are done!
+	system("Pause");
+	return 0;
+}

@@ -1,0 +1,9 @@
+﻿  Insert Increasing.cpp
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(6): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 5\insert increasing\insert increasing\insert increasing.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 5\Insert Increasing\Debug\Insert Increasing.exe not found or not built by the last incremental link; performing full link
+  Insert Increasing.vcxproj -> F:\FIC\Cmpt135\Programs\Week 5\Insert Increasing\Debug\Insert Increasing.exe

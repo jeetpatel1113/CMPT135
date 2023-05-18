@@ -1,0 +1,22 @@
+﻿Build started 1/10/2023 5:25:22 PM.
+     1>Project "F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\inClass Returning structure from functions\inClass Returning structure from functions.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\inClass Returning structure from functions.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "inClass Returning structure from functions.cpp"
+         inClass Returning structure from functions.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\inClass Returning structure from functions.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\inClass Returning structure from functions.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\inClass Returning structure from functions.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\inClass Returning structure from functions.lib" /MACHINE:X86 "Debug\inClass Returning structure from functions.obj"
+         inClass Returning structure from functions.vcxproj -> F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\inClass Returning structure from functions.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\Debug\inClass Returning structure from functions.exe;#1" /manifest "Debug\inClass Returning structure from functions.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\inClass Returning structure from functions.unsuccessfulbuild".
+         Touching "Debug\inClass Returning structure from functions.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt135\Programs\Week 1\inClass Returning structure from functions\inClass Returning structure from functions\inClass Returning structure from functions.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40

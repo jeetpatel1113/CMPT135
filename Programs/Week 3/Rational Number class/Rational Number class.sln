@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rational Number class", "Rational Number class\Rational Number class.vcxproj", "{54B019E0-A4D1-4274-A3D0-1B8F4126B851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B019E0-A4D1-4274-A3D0-1B8F4126B851}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54B019E0-A4D1-4274-A3D0-1B8F4126B851}.Debug|Win32.Build.0 = Debug|Win32
+		{54B019E0-A4D1-4274-A3D0-1B8F4126B851}.Release|Win32.ActiveCfg = Release|Win32
+		{54B019E0-A4D1-4274-A3D0-1B8F4126B851}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

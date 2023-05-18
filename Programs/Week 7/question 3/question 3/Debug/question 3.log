@@ -1,0 +1,6 @@
+﻿  question 3.cpp
+f:\fic\cmpt135\programs\week 7\question 3\question 3\question 3.cpp(7): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\question 3\question 3\question 3.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\question 3\question 3\question 3.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 7\question 3\Debug\question 3.exe not found or not built by the last incremental link; performing full link
+  question 3.vcxproj -> F:\FIC\Cmpt135\Programs\Week 7\question 3\Debug\question 3.exe

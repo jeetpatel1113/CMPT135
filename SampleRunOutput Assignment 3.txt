@@ -1,0 +1,1126 @@
+Welcome to Phantom College School Management System
+===================================================
+
+Students List
+No student has been registered yet.
+
+Courses List
+No course has been offered yet.
+
+Students Map
+No student is enrolled in any course yet.
+
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+Course offering successful.
+
+Some courses have been offered and added in to the system.
+The updated system information is...
+
+Students List
+No student has been registered yet.
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ECON102, Credit Hours = 4
+Course at index 9: Course Name = ENGL100, Credit Hours = 2
+Course at index 10: Course Name = HIST101, Credit Hours = 3
+Course at index 11: Course Name = PHYS100, Credit Hours = 2
+Course at index 12: Course Name = PHYS101, Credit Hours = 3
+Course at index 13: Course Name = PHYS102, Credit Hours = 4
+Course at index 14: Course Name = CHEM101, Credit Hours = 3
+Course at index 15: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+No student is enrolled in any course yet.
+
+CMPT225 course is not offered in the school.
+
+ENGL100 course is offered in the school. Details below...
+Course Name = ENGL100, Credit Hours = 2
+
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+Student registration successful.
+
+Some students have been registered in to the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Xzbcoejuvp Vaboygpoey: DOB (d-m-y) = 8-12-2000
+Student at index 6: Full Name = Bnpljvrvip Yamyehwqnq: DOB (d-m-y) = 30-11-1998
+Student at index 7: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 8: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 9: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ECON102, Credit Hours = 4
+Course at index 9: Course Name = ENGL100, Credit Hours = 2
+Course at index 10: Course Name = HIST101, Credit Hours = 3
+Course at index 11: Course Name = PHYS100, Credit Hours = 2
+Course at index 12: Course Name = PHYS101, Credit Hours = 3
+Course at index 13: Course Name = PHYS102, Credit Hours = 4
+Course at index 14: Course Name = CHEM101, Credit Hours = 3
+Course at index 15: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+[Empty Map]
+GPA = 0
+
+Student at index 1
+[Empty Map]
+GPA = 0
+
+Student at index 2
+[Empty Map]
+GPA = 0
+
+Student at index 3
+[Empty Map]
+GPA = 0
+
+Student at index 4
+[Empty Map]
+GPA = 0
+
+Student at index 5
+[Empty Map]
+GPA = 0
+
+Student at index 6
+[Empty Map]
+GPA = 0
+
+Student at index 7
+[Empty Map]
+GPA = 0
+
+Student at index 8
+[Empty Map]
+GPA = 0
+
+Student at index 9
+[Empty Map]
+GPA = 0
+
+
+Yonas Weldeselassie is not a student in the school.
+
+Ggbwkfnqdu Xwfnfozvsr is a student in the school. Details below...
+Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+[Empty Map]
+GPA = 0
+
+
+Some students have been enrolled in to some courses.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Xzbcoejuvp Vaboygpoey: DOB (d-m-y) = 8-12-2000
+Student at index 6: Full Name = Bnpljvrvip Yamyehwqnq: DOB (d-m-y) = 30-11-1998
+Student at index 7: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 8: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 9: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ECON102, Credit Hours = 4
+Course at index 9: Course Name = ENGL100, Credit Hours = 2
+Course at index 10: Course Name = HIST101, Credit Hours = 3
+Course at index 11: Course Name = PHYS100, Credit Hours = 2
+Course at index 12: Course Name = PHYS101, Credit Hours = 3
+Course at index 13: Course Name = PHYS102, Credit Hours = 4
+Course at index 14: Course Name = CHEM101, Credit Hours = 3
+Course at index 15: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+14, N
+9, N
+5, N
+8, N
+6, N
+GPA = 0
+
+Student at index 1
+4, N
+6, N
+GPA = 0
+
+Student at index 2
+14, N
+9, N
+6, N
+GPA = 0
+
+Student at index 3
+7, N
+8, N
+4, N
+10, N
+0, N
+GPA = 0
+
+Student at index 4
+8, N
+6, N
+10, N
+11, N
+1, N
+13, N
+GPA = 0
+
+Student at index 5
+4, N
+8, N
+9, N
+14, N
+2, N
+11, N
+GPA = 0
+
+Student at index 6
+3, N
+5, N
+12, N
+4, N
+GPA = 0
+
+Student at index 7
+8, N
+14, N
+GPA = 0
+
+Student at index 8
+5, N
+0, N
+GPA = 0
+
+Student at index 9
+13, N
+GPA = 0
+
+
+Skipping a course from letter grade assignment.
+Skipping a student from letter grade assignments.
+Skipping a student from letter grade assignments.
+Skipping a course from letter grade assignment.
+Skipping a course from letter grade assignment.
+Skipping a course from letter grade assignment.
+Skipping a student from letter grade assignments.
+Skipping a course from letter grade assignment.
+Skipping a course from letter grade assignment.
+
+Students have been assigned letter grades.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Xzbcoejuvp Vaboygpoey: DOB (d-m-y) = 8-12-2000
+Student at index 6: Full Name = Bnpljvrvip Yamyehwqnq: DOB (d-m-y) = 30-11-1998
+Student at index 7: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 8: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 9: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ECON102, Credit Hours = 4
+Course at index 9: Course Name = ENGL100, Credit Hours = 2
+Course at index 10: Course Name = HIST101, Credit Hours = 3
+Course at index 11: Course Name = PHYS100, Credit Hours = 2
+Course at index 12: Course Name = PHYS101, Credit Hours = 3
+Course at index 13: Course Name = PHYS102, Credit Hours = 4
+Course at index 14: Course Name = CHEM101, Credit Hours = 3
+Course at index 15: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+14, F
+9, N
+5, A
+8, F
+6, F
+GPA = 1.06667
+
+Student at index 1
+4, N
+6, N
+GPA = 0
+
+Student at index 2
+14, N
+9, N
+6, N
+GPA = 0
+
+Student at index 3
+7, C
+8, A
+4, C
+10, F
+0, N
+GPA = 2.15385
+
+Student at index 4
+8, C
+6, C
+10, N
+11, B
+1, C
+13, C
+GPA = 2.11765
+
+Student at index 5
+4, F
+8, A
+9, D
+14, N
+2, A
+11, B
+GPA = 2.66667
+
+Student at index 6
+3, N
+5, N
+12, N
+4, N
+GPA = 0
+
+Student at index 7
+8, N
+14, F
+GPA = 0
+
+Student at index 8
+5, B
+0, F
+GPA = 2
+
+Student at index 9
+13, N
+GPA = 0
+
+
+
+The student at index 5 has been removed from the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Bnpljvrvip Yamyehwqnq: DOB (d-m-y) = 30-11-1998
+Student at index 6: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 7: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 8: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ECON102, Credit Hours = 4
+Course at index 9: Course Name = ENGL100, Credit Hours = 2
+Course at index 10: Course Name = HIST101, Credit Hours = 3
+Course at index 11: Course Name = PHYS100, Credit Hours = 2
+Course at index 12: Course Name = PHYS101, Credit Hours = 3
+Course at index 13: Course Name = PHYS102, Credit Hours = 4
+Course at index 14: Course Name = CHEM101, Credit Hours = 3
+Course at index 15: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+14, F
+9, N
+5, A
+8, F
+6, F
+GPA = 1.06667
+
+Student at index 1
+4, N
+6, N
+GPA = 0
+
+Student at index 2
+14, N
+9, N
+6, N
+GPA = 0
+
+Student at index 3
+7, C
+8, A
+4, C
+10, F
+0, N
+GPA = 2.15385
+
+Student at index 4
+8, C
+6, C
+10, N
+11, B
+1, C
+13, C
+GPA = 2.11765
+
+Student at index 5
+3, N
+5, N
+12, N
+4, N
+GPA = 0
+
+Student at index 6
+8, N
+14, F
+GPA = 0
+
+Student at index 7
+5, B
+0, F
+GPA = 2
+
+Student at index 8
+13, N
+GPA = 0
+
+
+Ggbwkfnqdu Xwfnfozvsr is a student in the school. Details below...
+Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+4, N
+6, N
+
+Student at index 1 withdrawn from the course at index 4
+The updated information for the student is now...
+Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+6, N
+
+ECON102 has been removed from the system.
+The system has been updated. Below is the updated system information...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Bnpljvrvip Yamyehwqnq: DOB (d-m-y) = 30-11-1998
+Student at index 6: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 7: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 8: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ENGL100, Credit Hours = 2
+Course at index 9: Course Name = HIST101, Credit Hours = 3
+Course at index 10: Course Name = PHYS100, Credit Hours = 2
+Course at index 11: Course Name = PHYS101, Credit Hours = 3
+Course at index 12: Course Name = PHYS102, Credit Hours = 4
+Course at index 13: Course Name = CHEM101, Credit Hours = 3
+Course at index 14: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+13, F
+8, N
+5, A
+6, F
+GPA = 1.45455
+
+Student at index 1
+6, N
+GPA = 0
+
+Student at index 2
+13, N
+8, N
+6, N
+GPA = 0
+
+Student at index 3
+7, C
+4, C
+9, F
+0, N
+GPA = 1.33333
+
+Student at index 4
+6, C
+9, N
+10, B
+1, C
+12, C
+GPA = 2.15385
+
+Student at index 5
+3, N
+5, N
+11, N
+4, N
+GPA = 0
+
+Student at index 6
+13, F
+GPA = 0
+
+Student at index 7
+5, B
+0, F
+GPA = 2
+
+Student at index 8
+12, N
+GPA = 0
+
+
+The top student is...
+Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+GPA = 2.15385
+
+
+The student at index 5 has been removed from the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 6: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 7: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = MATH242, Credit Hours = 4
+Course at index 7: Course Name = ECON101, Credit Hours = 3
+Course at index 8: Course Name = ENGL100, Credit Hours = 2
+Course at index 9: Course Name = HIST101, Credit Hours = 3
+Course at index 10: Course Name = PHYS100, Credit Hours = 2
+Course at index 11: Course Name = PHYS101, Credit Hours = 3
+Course at index 12: Course Name = PHYS102, Credit Hours = 4
+Course at index 13: Course Name = CHEM101, Credit Hours = 3
+Course at index 14: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+13, F
+8, N
+5, A
+6, F
+GPA = 1.45455
+
+Student at index 1
+6, N
+GPA = 0
+
+Student at index 2
+13, N
+8, N
+6, N
+GPA = 0
+
+Student at index 3
+7, C
+4, C
+9, F
+0, N
+GPA = 1.33333
+
+Student at index 4
+6, C
+9, N
+10, B
+1, C
+12, C
+GPA = 2.15385
+
+Student at index 5
+13, F
+GPA = 0
+
+Student at index 6
+5, B
+0, F
+GPA = 2
+
+Student at index 7
+12, N
+GPA = 0
+
+
+Ggbwkfnqdu Xwfnfozvsr is a student in the school. Details below...
+Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+6, N
+
+Student at index 1 withdrawn from the course at index 6
+The updated information for the student is now...
+Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+[Empty Map]
+
+MATH242 has been removed from the system.
+The system has been updated. Below is the updated system information...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Ggbwkfnqdu Xwfnfozvsr: DOB (d-m-y) = 22-9-2001
+Student at index 2: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 3: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 4: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 5: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 6: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 7: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = ENGL100, Credit Hours = 2
+Course at index 8: Course Name = HIST101, Credit Hours = 3
+Course at index 9: Course Name = PHYS100, Credit Hours = 2
+Course at index 10: Course Name = PHYS101, Credit Hours = 3
+Course at index 11: Course Name = PHYS102, Credit Hours = 4
+Course at index 12: Course Name = CHEM101, Credit Hours = 3
+Course at index 13: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+12, F
+7, N
+5, A
+GPA = 2.28571
+
+Student at index 1
+[Empty Map]
+GPA = 0
+
+Student at index 2
+12, N
+7, N
+GPA = 0
+
+Student at index 3
+6, C
+4, C
+8, F
+0, N
+GPA = 1.33333
+
+Student at index 4
+8, N
+9, B
+1, C
+11, C
+GPA = 2.22222
+
+Student at index 5
+12, F
+GPA = 0
+
+Student at index 6
+5, B
+0, F
+GPA = 2
+
+Student at index 7
+11, N
+GPA = 0
+
+
+The top student is...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+GPA = 2.28571
+
+
+The student at index 1 has been removed from the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 2: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 3: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 4: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 5: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 6: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = ENGL100, Credit Hours = 2
+Course at index 8: Course Name = HIST101, Credit Hours = 3
+Course at index 9: Course Name = PHYS100, Credit Hours = 2
+Course at index 10: Course Name = PHYS101, Credit Hours = 3
+Course at index 11: Course Name = PHYS102, Credit Hours = 4
+Course at index 12: Course Name = CHEM101, Credit Hours = 3
+Course at index 13: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+12, F
+7, N
+5, A
+GPA = 2.28571
+
+Student at index 1
+12, N
+7, N
+GPA = 0
+
+Student at index 2
+6, C
+4, C
+8, F
+0, N
+GPA = 1.33333
+
+Student at index 3
+8, N
+9, B
+1, C
+11, C
+GPA = 2.22222
+
+Student at index 4
+12, F
+GPA = 0
+
+Student at index 5
+5, B
+0, F
+GPA = 2
+
+Student at index 6
+11, N
+GPA = 0
+
+
+Hqghumeayl Nlfdxfircv is a student in the school. Details below...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+12, F
+7, N
+5, A
+
+Student at index 0 withdrawn from the course at index 12
+The updated information for the student is now...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+7, N
+5, A
+
+PHYS101 has been removed from the system.
+The system has been updated. Below is the updated system information...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 2: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 3: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 4: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 5: Full Name = Oksfzkvatx Dknlyjyhfi: DOB (d-m-y) = 27-8-2002
+Student at index 6: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = ENGL100, Credit Hours = 2
+Course at index 8: Course Name = HIST101, Credit Hours = 3
+Course at index 9: Course Name = PHYS100, Credit Hours = 2
+Course at index 10: Course Name = PHYS102, Credit Hours = 4
+Course at index 11: Course Name = CHEM101, Credit Hours = 3
+Course at index 12: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+7, N
+5, A
+GPA = 4
+
+Student at index 1
+11, N
+7, N
+GPA = 0
+
+Student at index 2
+6, C
+4, C
+8, F
+0, N
+GPA = 1.33333
+
+Student at index 3
+8, N
+9, B
+1, C
+10, C
+GPA = 2.22222
+
+Student at index 4
+11, F
+GPA = 0
+
+Student at index 5
+5, B
+0, F
+GPA = 2
+
+Student at index 6
+10, N
+GPA = 0
+
+
+The top student is...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+GPA = 4
+
+
+The student at index 5 has been removed from the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 2: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 3: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 4: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 5: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = ENGL100, Credit Hours = 2
+Course at index 8: Course Name = HIST101, Credit Hours = 3
+Course at index 9: Course Name = PHYS100, Credit Hours = 2
+Course at index 10: Course Name = PHYS102, Credit Hours = 4
+Course at index 11: Course Name = CHEM101, Credit Hours = 3
+Course at index 12: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+7, N
+5, A
+GPA = 4
+
+Student at index 1
+11, N
+7, N
+GPA = 0
+
+Student at index 2
+6, C
+4, C
+8, F
+0, N
+GPA = 1.33333
+
+Student at index 3
+8, N
+9, B
+1, C
+10, C
+GPA = 2.22222
+
+Student at index 4
+11, F
+GPA = 0
+
+Student at index 5
+10, N
+GPA = 0
+
+
+Mxujjloova Owuxwhmsnc is a student in the school. Details below...
+Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+11, F
+
+Student at index 4 withdrawn from the course at index 11
+The updated information for the student is now...
+Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+[Empty Map]
+
+ENGL100 has been removed from the system.
+The system has been updated. Below is the updated system information...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Prepggxrpn Rvystmwcys: DOB (d-m-y) = 29-5-2000
+Student at index 2: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 3: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 4: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 5: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = HIST101, Credit Hours = 3
+Course at index 8: Course Name = PHYS100, Credit Hours = 2
+Course at index 9: Course Name = PHYS102, Credit Hours = 4
+Course at index 10: Course Name = CHEM101, Credit Hours = 3
+Course at index 11: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+5, A
+GPA = 4
+
+Student at index 1
+10, N
+GPA = 0
+
+Student at index 2
+6, C
+4, C
+7, F
+0, N
+GPA = 1.33333
+
+Student at index 3
+7, N
+8, B
+1, C
+9, C
+GPA = 2.22222
+
+Student at index 4
+[Empty Map]
+GPA = 0
+
+Student at index 5
+9, N
+GPA = 0
+
+
+The top student is...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+GPA = 4
+
+
+The student at index 1 has been removed from the system.
+The updated system information is...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 2: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 3: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 4: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = CMPT135, Credit Hours = 4
+Course at index 3: Course Name = MACM101, Credit Hours = 2
+Course at index 4: Course Name = CALC151, Credit Hours = 3
+Course at index 5: Course Name = CALC152, Credit Hours = 4
+Course at index 6: Course Name = ECON101, Credit Hours = 3
+Course at index 7: Course Name = HIST101, Credit Hours = 3
+Course at index 8: Course Name = PHYS100, Credit Hours = 2
+Course at index 9: Course Name = PHYS102, Credit Hours = 4
+Course at index 10: Course Name = CHEM101, Credit Hours = 3
+Course at index 11: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+5, A
+GPA = 4
+
+Student at index 1
+6, C
+4, C
+7, F
+0, N
+GPA = 1.33333
+
+Student at index 2
+7, N
+8, B
+1, C
+9, C
+GPA = 2.22222
+
+Student at index 3
+[Empty Map]
+GPA = 0
+
+Student at index 4
+9, N
+GPA = 0
+
+
+Qpevikeffm Znimkkasvw is a student in the school. Details below...
+Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+6, C
+4, C
+7, F
+0, N
+
+Student at index 1 withdrawn from the course at index 0
+The updated information for the student is now...
+Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+6, C
+4, C
+7, F
+
+CMPT135 has been removed from the system.
+The system has been updated. Below is the updated system information...
+
+Students List
+Student at index 0: Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+Student at index 1: Full Name = Qpevikeffm Znimkkasvw: DOB (d-m-y) = 27-4-2002
+Student at index 2: Full Name = Nzkycxfxtl Sgypsfadpo: DOB (d-m-y) = 10-7-2000
+Student at index 3: Full Name = Mxujjloova Owuxwhmsnc: DOB (d-m-y) = 19-8-2001
+Student at index 4: Full Name = Wnkkufnuxx Zrzbmnmgqo: DOB (d-m-y) = 9-9-1998
+
+Courses List
+Course at index 0: Course Name = CMPT120, Credit Hours = 2
+Course at index 1: Course Name = CMPT130, Credit Hours = 3
+Course at index 2: Course Name = MACM101, Credit Hours = 2
+Course at index 3: Course Name = CALC151, Credit Hours = 3
+Course at index 4: Course Name = CALC152, Credit Hours = 4
+Course at index 5: Course Name = ECON101, Credit Hours = 3
+Course at index 6: Course Name = HIST101, Credit Hours = 3
+Course at index 7: Course Name = PHYS100, Credit Hours = 2
+Course at index 8: Course Name = PHYS102, Credit Hours = 4
+Course at index 9: Course Name = CHEM101, Credit Hours = 3
+Course at index 10: Course Name = CHEM102, Credit Hours = 4
+
+Students Map
+Student at index 0
+4, A
+GPA = 4
+
+Student at index 1
+5, C
+3, C
+6, F
+GPA = 1.33333
+
+Student at index 2
+6, N
+7, B
+1, C
+8, C
+GPA = 2.22222
+
+Student at index 3
+[Empty Map]
+GPA = 0
+
+Student at index 4
+8, N
+GPA = 0
+
+
+The top student is...
+Full Name = Hqghumeayl Nlfdxfircv: DOB (d-m-y) = 4-3-2002
+GPA = 4
+
+Press any key to continue . . . 

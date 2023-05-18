@@ -1,0 +1,4 @@
+﻿  inClass Template.cpp
+f:\fic\cmpt135\programs\week 11\inclass template\inclass template\inclass template.cpp(25): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\FIC\Cmpt135\Programs\Week 11\inClass Template\Debug\inClass Template.exe not found or not built by the last incremental link; performing full link
+  inClass Template.vcxproj -> F:\FIC\Cmpt135\Programs\Week 11\inClass Template\Debug\inClass Template.exe

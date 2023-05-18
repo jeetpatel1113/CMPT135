@@ -1,0 +1,4 @@
+﻿  question 1.cpp
+f:\fic\cmpt135\programs\week 7\question 1\question 1\question 1.cpp(23): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\FIC\Cmpt135\Programs\Week 7\question 1\Debug\question 1.exe not found or not built by the last incremental link; performing full link
+  question 1.vcxproj -> F:\FIC\Cmpt135\Programs\Week 7\question 1\Debug\question 1.exe

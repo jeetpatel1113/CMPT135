@@ -1,0 +1,4 @@
+﻿  Returning the vector from function.cpp
+f:\fic\cmpt135\programs\week 7\returning the vector from function\returning the vector from function\returning the vector from function.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 7\Returning the vector from function\Debug\Returning the vector from function.exe not found or not built by the last incremental link; performing full link
+  Returning the vector from function.vcxproj -> F:\FIC\Cmpt135\Programs\Week 7\Returning the vector from function\Debug\Returning the vector from function.exe

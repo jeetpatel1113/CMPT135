@@ -1,0 +1,13 @@
+﻿  struct and class.cpp
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(10): error C2011: 'Point' : 'struct' type redefinition
+          f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(5) : see declaration of 'Point'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(16): error C2027: use of undefined type 'Point'
+          f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(5) : see declaration of 'Point'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(16): error C2059: syntax error : ')'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(17): error C2143: syntax error : missing ';' before '{'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(17): error C2447: '{' : missing function header (old-style formal list?)
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(24): error C2079: 'x' uses undefined struct 'Point'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(26): error C2228: left of '.a' must have class/struct/union
+          type is 'int'
+f:\fic\cmpt135\programs\week 3\struct and class\struct and class\struct and class.cpp(26): error C2228: left of '.b' must have class/struct/union
+          type is 'int'

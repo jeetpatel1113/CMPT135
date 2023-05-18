@@ -1,0 +1,7 @@
+﻿  Vector inClass.cpp
+f:\fic\cmpt135\programs\week 7\vector inclass\vector inclass\vector inclass.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\vector inclass\vector inclass\vector inclass.cpp(27): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\vector inclass\vector inclass\vector inclass.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\vector inclass\vector inclass\vector inclass.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 7\Vector inClass\Debug\Vector inClass.exe not found or not built by the last incremental link; performing full link
+  Vector inClass.vcxproj -> F:\FIC\Cmpt135\Programs\Week 7\Vector inClass\Debug\Vector inClass.exe

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "question 4 BankAccount", "question 4 BankAccount\question 4 BankAccount.vcxproj", "{245F4424-2599-4532-B831-BE16C4A0FB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245F4424-2599-4532-B831-BE16C4A0FB33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{245F4424-2599-4532-B831-BE16C4A0FB33}.Debug|Win32.Build.0 = Debug|Win32
+		{245F4424-2599-4532-B831-BE16C4A0FB33}.Release|Win32.ActiveCfg = Release|Win32
+		{245F4424-2599-4532-B831-BE16C4A0FB33}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

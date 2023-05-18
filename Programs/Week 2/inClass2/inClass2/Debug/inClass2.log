@@ -1,0 +1,23 @@
+﻿Build started 1/17/2023 4:52:49 PM.
+     1>Project "F:\FIC\Cmpt135\Programs\Week 2\inClass2\inClass2\inClass2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\inClass2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt inClass2.cpp
+         inClass2.cpp
+     1>f:\fic\cmpt135\programs\week 2\inclass2\inclass2\inclass2.cpp(108): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>f:\fic\cmpt135\programs\week 2\inclass2\inclass2\inclass2.cpp(108): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\inClass2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.lib" /MACHINE:X86 Debug\inClass2.obj
+         LINK : F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.exe not found or not built by the last incremental link; performing full link
+         inClass2.vcxproj -> F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\FIC\Cmpt135\Programs\Week 2\inClass2\Debug\inClass2.exe;#1" /manifest Debug\inClass2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\inClass2.unsuccessfulbuild".
+         Touching "Debug\inClass2.lastbuildstate".
+     1>Done Building Project "F:\FIC\Cmpt135\Programs\Week 2\inClass2\inClass2\inClass2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70

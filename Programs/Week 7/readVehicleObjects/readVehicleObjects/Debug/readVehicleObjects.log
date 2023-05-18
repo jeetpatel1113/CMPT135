@@ -1,0 +1,8 @@
+﻿  readVehicleObjects.cpp
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(42): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(53): error C3861: 'isFound': identifier not found
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(71): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(73): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+f:\fic\cmpt135\programs\week 7\readvehicleobjects\readvehicleobjects\readvehicleobjects.cpp(74): warning C4305: 'return' : truncation from 'int' to 'bool'

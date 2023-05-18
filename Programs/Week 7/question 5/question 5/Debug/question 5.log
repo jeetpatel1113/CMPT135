@@ -1,0 +1,4 @@
+﻿  question 5.cpp
+f:\fic\cmpt135\programs\week 7\question 5\question 5\question 5.cpp(8): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 7\question 5\Debug\question 5.exe not found or not built by the last incremental link; performing full link
+  question 5.vcxproj -> F:\FIC\Cmpt135\Programs\Week 7\question 5\Debug\question 5.exe

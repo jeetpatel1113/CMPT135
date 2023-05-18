@@ -1,0 +1,4 @@
+﻿  inClass Max template.cpp
+f:\fic\cmpt135\programs\week 11\inclass max template\inclass max template\inclass max template.cpp(24): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\FIC\Cmpt135\Programs\Week 11\inClass Max template\Debug\inClass Max template.exe not found or not built by the last incremental link; performing full link
+  inClass Max template.vcxproj -> F:\FIC\Cmpt135\Programs\Week 11\inClass Max template\Debug\inClass Max template.exe

@@ -1,0 +1,291 @@
+Sample Run Outputs
+==================
+This program demonstrates the Linked List Data Structure in C++
+Linked Lists will be used for numeric information representation using
+ *** Unsigned Binary Representation
+ *** Sign and Magnitude Binary Representation
+ *** Two's Complement Binary Representation
+
+In addition, the program demonstrates
+ *** Two's complement binary addition, and
+ *** Conversion from two's complement to decimal.
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 1
+
+Enter a positive integer for the bit pattern size: 6
+Enter a non-negative integer: 45
+The unsigned binary representation of 45 in 6 bit is 1 0 1 1 0 1
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 1
+
+Enter a positive integer for the bit pattern size: 4
+Enter a non-negative integer: 15
+The unsigned binary representation of 15 in 4 bit is 1 1 1 1
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 1
+
+Enter a positive integer for the bit pattern size: 8
+Enter a non-negative integer: 373
+The unsigned binary representation of 373 in 8 bit is 0 1 1 1 0 1 0 1
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 2
+
+Enter a positive integer for the bit pattern size: 8
+Enter an integer: 0
+The sign and magnitude binary representation of 0 in 8 bit is 0 0 0 0 0 0 0 0
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 2
+
+Enter a positive integer for the bit pattern size: 5
+Enter an integer: 8
+The sign and magnitude binary representation of 8 in 5 bit is 0 1 0 0 0
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 2
+
+Enter a positive integer for the bit pattern size: 8
+Enter an integer: -18
+The sign and magnitude binary representation of -18 in 8 bit is 1 0 0 1 0 0 1 0
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 2
+
+Enter a positive integer for the bit pattern size: 6
+Enter an integer: 75
+The sign and magnitude binary representation of 75 in 6 bit is 0 0 1 0 1 1
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 2
+
+Enter a positive integer for the bit pattern size: 6
+Enter an integer: -75
+The sign and magnitude binary representation of -75 in 6 bit is 1 0 1 0 1 1
+
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 5
+Enter an integer: 9
+The two's complement binary representation of 9 in 5 bit is 0 1 0 0 1
+
+Enter a second integer: -14
+The two's complement binary representation of -14 in 5 bit is 1 0 0 1 0
+
+The binary sum of 0 1 0 0 1  and 1 0 0 1 0  is 1 1 0 1 1
+The integer value of the binary sum is -5
+This is a correct result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 8
+Enter an integer: 62
+The two's complement binary representation of 62 in 8 bit is 0 0 1 1 1 1 1 0
+
+Enter a second integer: -99
+The two's complement binary representation of -99 in 8 bit is 1 0 0 1 1 1 0 1
+
+The binary sum of 0 0 1 1 1 1 1 0  and 1 0 0 1 1 1 0 1  is 1 1 0 1 1 0 1 1
+The integer value of the binary sum is -37
+This is a correct result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 5
+Enter an integer: 11
+The two's complement binary representation of 11 in 5 bit is 0 1 0 1 1
+
+Enter a second integer: 9
+The two's complement binary representation of 9 in 5 bit is 0 1 0 0 1
+
+The binary sum of 0 1 0 1 1  and 0 1 0 0 1  is 1 0 1 0 0
+The integer value of the binary sum is -12
+This is not correct result because our bit pattern is too small to store the result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 5
+Enter an integer: -321
+The two's complement binary representation of -321 in 5 bit is 1 1 1 1 1
+
+Enter a second integer: 305
+The two's complement binary representation of 305 in 5 bit is 1 0 0 0 1
+
+The binary sum of 1 1 1 1 1  and 1 0 0 0 1  is 1 0 0 0 0
+The integer value of the binary sum is -16
+This is a correct result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 3
+Enter an integer: 2
+The two's complement binary representation of 2 in 3 bit is 0 1 0
+
+Enter a second integer: 2
+The two's complement binary representation of 2 in 3 bit is 0 1 0
+
+The binary sum of 0 1 0  and 0 1 0  is 1 0 0
+The integer value of the binary sum is -4
+This is not correct result because our bit pattern is too small to store the result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 6
+Enter an integer: 45
+The two's complement binary representation of 45 in 6 bit is 1 0 1 1 0 1
+
+Enter a second integer: -17
+The two's complement binary representation of -17 in 6 bit is 1 0 1 1 1 1
+
+The binary sum of 1 0 1 1 0 1  and 1 0 1 1 1 1  is 0 1 1 1 0 0
+The integer value of the binary sum is 28
+This is a correct result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 1
+Enter an integer: -99
+The two's complement binary representation of -99 in 1 bit is 1
+
+Enter a second integer: 100
+The two's complement binary representation of 100 in 1 bit is 0
+
+The binary sum of 1  and 0  is 1
+The integer value of the binary sum is -1
+This is not correct result because our bit pattern is too small to store the result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 3
+
+Enter a positive integer for the bit pattern size: 1
+Enter an integer: -100
+The two's complement binary representation of -100 in 1 bit is 0
+
+Enter a second integer: 99
+The two's complement binary representation of 99 in 1 bit is 1
+
+The binary sum of 0  and 1  is 1
+The integer value of the binary sum is -1
+This is a correct result.
+Press any key to continue . . .
+
+
+Select your computation
+   1. Unsigned Binary Representation Computation
+   2. Sign and Magnitude Representation Computation
+   3. Two's Complement Representation Computation
+   4. Exit Program
+Enter your selection (1, 2, 3, or 4): 4
+Press any key to continue . . .

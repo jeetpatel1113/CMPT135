@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constant Iterators", "Constant Iterators\Constant Iterators.vcxproj", "{8C98CFB5-31CC-44C6-9A38-E33FFA7DBC00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C98CFB5-31CC-44C6-9A38-E33FFA7DBC00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C98CFB5-31CC-44C6-9A38-E33FFA7DBC00}.Debug|Win32.Build.0 = Debug|Win32
+		{8C98CFB5-31CC-44C6-9A38-E33FFA7DBC00}.Release|Win32.ActiveCfg = Release|Win32
+		{8C98CFB5-31CC-44C6-9A38-E33FFA7DBC00}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

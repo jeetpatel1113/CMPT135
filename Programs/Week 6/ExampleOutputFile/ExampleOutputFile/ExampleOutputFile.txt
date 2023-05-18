@@ -1,0 +1,13 @@
+Hello there... this is line 1
+0	0	0
+1	1	1
+2	4	1.41421
+3	9	1.73205
+4	16	2
+5	25	2.23607
+6	36	2.44949
+Goodbye.
+This is appended at the end of the file.
+Goodbye again.
+This is appended at the end of the file.
+Goodbye again.

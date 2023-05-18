@@ -1,0 +1,791 @@
+﻿  question 10.cpp
+f:\fic\cmpt135\programs\week 1\question 10\question 10\question 10.cpp(85): error C2679: binary '<<' : no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679): could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const signed char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,signed char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const unsigned char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,unsigned char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(186): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ostream<_Elem,_Traits> &(__cdecl *)(std::basic_ostream<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(192): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(199): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(206): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::_Bool)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(226): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(260): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(280): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(305): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(325): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(345): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(366): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(__int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(386): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned __int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(407): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(float)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(427): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(447): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(467): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(const void *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(487): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_streambuf<_Elem,_Traits> *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          while trying to match the argument list '(std::ostream, void)'
+f:\fic\cmpt135\programs\week 1\question 10\question 10\question 10.cpp(86): error C2679: binary '<<' : no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679): could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const signed char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,signed char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const unsigned char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,unsigned char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(186): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ostream<_Elem,_Traits> &(__cdecl *)(std::basic_ostream<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(192): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(199): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(206): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::_Bool)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(226): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(260): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(280): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(305): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(325): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(345): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(366): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(__int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(386): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned __int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(407): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(float)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(427): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(447): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(467): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(const void *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(487): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_streambuf<_Elem,_Traits> *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          while trying to match the argument list '(std::ostream, void)'
+f:\fic\cmpt135\programs\week 1\question 10\question 10\question 10.cpp(87): error C2679: binary '<<' : no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679): could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const signed char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,signed char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const unsigned char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,unsigned char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(186): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ostream<_Elem,_Traits> &(__cdecl *)(std::basic_ostream<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(192): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(199): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(206): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::_Bool)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(226): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(260): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(280): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(305): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(325): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(345): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(366): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(__int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(386): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned __int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(407): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(float)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(427): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(447): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(467): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(const void *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(487): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_streambuf<_Elem,_Traits> *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          while trying to match the argument list '(std::ostream, void)'
+f:\fic\cmpt135\programs\week 1\question 10\question 10\question 10.cpp(88): error C2679: binary '<<' : no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679): could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const signed char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,signed char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const unsigned char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,unsigned char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(186): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ostream<_Elem,_Traits> &(__cdecl *)(std::basic_ostream<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(192): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(199): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(206): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::_Bool)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(226): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(260): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(280): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(305): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(325): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(345): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(366): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(__int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(386): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned __int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(407): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(float)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(427): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(447): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(467): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(const void *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(487): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_streambuf<_Elem,_Traits> *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          while trying to match the argument list '(std::ostream, void)'
+f:\fic\cmpt135\programs\week 1\question 10\question 10\question 10.cpp(89): error C2679: binary '<<' : no operator found which takes a right-hand operand of type 'void' (or there is no acceptable conversion)
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679): could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const signed char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,signed char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const unsigned char *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,unsigned char)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085): or       'std::basic_ostream<_Elem,_Traits> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(186): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ostream<_Elem,_Traits> &(__cdecl *)(std::basic_ostream<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(192): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_ios<_Elem,_Traits> &(__cdecl *)(std::basic_ios<_Elem,_Traits> &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(199): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(206): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::_Bool)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(226): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(260): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned short)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(280): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(305): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned int)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(325): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(345): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned long)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(366): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(__int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(386): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(unsigned __int64)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(407): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(float)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(427): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(447): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(long double)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(467): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(const void *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(487): or       'std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::operator <<(std::basic_streambuf<_Elem,_Traits> *)'
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>
+          ]
+          while trying to match the argument list '(std::ostream, void)'

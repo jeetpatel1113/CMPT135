@@ -1,0 +1,4 @@
+﻿  RationalNumber lab work.cpp
+f:\fic\cmpt135\programs\week 3\rationalnumber lab work\rationalnumber lab work\rationalnumber lab work.cpp(42): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\FIC\Cmpt135\Programs\Week 3\RationalNumber lab work\Debug\RationalNumber lab work.exe not found or not built by the last incremental link; performing full link
+  RationalNumber lab work.vcxproj -> F:\FIC\Cmpt135\Programs\Week 3\RationalNumber lab work\Debug\RationalNumber lab work.exe

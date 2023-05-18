@@ -1,0 +1,8 @@
+﻿  shapes inClass.cpp
+f:\fic\cmpt135\programs\week 10\shapes inclass\shapes inclass\shapes inclass.cpp(298): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 10\shapes inclass\shapes inclass\shapes inclass.cpp(324): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 10\shapes inclass\shapes inclass\shapes inclass.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 10\shapes inclass\shapes inclass\shapes inclass.cpp(353): warning C4018: '<' : signed/unsigned mismatch
+f:\fic\cmpt135\programs\week 10\shapes inclass\shapes inclass\shapes inclass.cpp(357): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 10\shapes inClass\Debug\shapes inClass.exe not found or not built by the last incremental link; performing full link
+  shapes inClass.vcxproj -> F:\FIC\Cmpt135\Programs\Week 10\shapes inClass\Debug\shapes inClass.exe

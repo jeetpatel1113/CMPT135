@@ -1,0 +1,4 @@
+﻿  inClass countChar.cpp
+f:\fic\cmpt135\programs\week 12\inclass countchar\inclass countchar\inclass countchar.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+  LINK : F:\FIC\Cmpt135\Programs\Week 12\inClass countChar\Debug\inClass countChar.exe not found or not built by the last incremental link; performing full link
+  inClass countChar.vcxproj -> F:\FIC\Cmpt135\Programs\Week 12\inClass countChar\Debug\inClass countChar.exe
